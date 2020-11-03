@@ -1,6 +1,9 @@
 # CCL-Models
 This repo contains models used in published academic work by authors in the CCL. You can find models and citations to their associated published works in each folder.
 
+## Organization
+The folders above are named thusly: `First Author - Abbreviated Model Name - (Year Published)`. Please note, that this is organized via the first author of the model which does not necessarily reflect the first author of the published work.
+
 ## Information for CCL Authors
 To submit a model and associated publication for inclusion in this repo, please send the model, a `README.md`, and the version of the model referenced in the paper to `czars@ccl.northwestern.edu`.
 
